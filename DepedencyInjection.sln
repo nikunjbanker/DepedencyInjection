@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. OrderManagement-startpo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. OrderManagementConsole", "OrderManagementConsole\03. OrderManagementConsole.csproj", "{4D51FA0F-6C22-426A-B9C4-25850AAB43DF}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. DependencyInjectionSample", "DependencyInjectionSample\04. DependencyInjectionSample.csproj", "{06C9E256-F1E5-4E84-8423-BE8EA1814E18}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{4D51FA0F-6C22-426A-B9C4-25850AAB43DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D51FA0F-6C22-426A-B9C4-25850AAB43DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D51FA0F-6C22-426A-B9C4-25850AAB43DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06C9E256-F1E5-4E84-8423-BE8EA1814E18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06C9E256-F1E5-4E84-8423-BE8EA1814E18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06C9E256-F1E5-4E84-8423-BE8EA1814E18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06C9E256-F1E5-4E84-8423-BE8EA1814E18}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
